@@ -1,16 +1,32 @@
-### Hi there 👋
+<div align="center">
+<img src="https://raw.githubusercontent.com/DiegoPerozo/DiegoPerozo/master/img/DiegoIng.jpg" alt="Diego Perozo"/>
 
-<!--
-**DiegoPerozo/DiegoPerozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://badges.pufler.dev/visits/DiegoPerozo/DiegoPerozo" alt="Visitas"/>
+<img src="https://badges.pufler.dev/years/DiegoPerozo" alt="Años"/>
+<img src="https://badges.pufler.dev/repos/DiegoPerozo" alt="Repositorios"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Conocimientos de Programacion
+![](https://img.shields.io/badge/-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
+
+## 🔧 Herramientas
+![](https://img.shields.io/badge/-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+
+## &#x1f4c8; Estadisticas de Github
+
+<a href="https://github.com/DiegoPerozo/DiegoPerozo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPerozo&hide=java,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/DiegoPerozo/DiegoPerozo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoPerozo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Diego's GitHub Stats" />
+</a>
+
+<a href="https://github.com/DiegoPerozo/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoPerozo&repo=tele-book&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/DiegoPerozo/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoPerozo&repo=newyear-postcard&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
