@@ -37,11 +37,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoPerozo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Diego's GitHub Stats" />
 </a>
 
-<a href="https://github.com/DiegoPerozo/python-project-blueprint">
+<a href="https://github.com/DiegoPerozo/tele-book">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoPerozo&repo=tele-book&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/DiegoPerozo/go-project-blueprint">
+<a href="https://github.com/DiegoPerozo/newyear-postcard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoPerozo&repo=newyear-postcard&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
